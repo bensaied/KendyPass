@@ -1,15 +1,16 @@
 
 # KendyPass
 
-![Blue and Yellow Minimalist Web Development Instagram Post](https://github.com/bensaied/KendyPass/assets/157906188/80f18cbb-8d95-4310-86c6-0d96951ffac0)
-
 This app will help you manage your application passwords, and it's not just for you, but also for your colleagues ! 
 It securely stores your logins and passwords in an encrypted format.
-
 Say goodbye to the hassle of forgetting passwords with KendyPass ! 👋
+
+![Blue and Yellow Minimalist Web Development Instagram Post](https://github.com/bensaied/KendyPass/assets/157906188/80f18cbb-8d95-4310-86c6-0d96951ffac0)
+
 
 ## Demo
 
+https://github.com/bensaied/KendyPass/assets/157906188/7743f474-9a8d-4256-9fea-b085f6e8a7e4
 
 
 ## 🧰 Tech Stack
@@ -28,7 +29,6 @@ Say goodbye to the hassle of forgetting passwords with KendyPass ! 👋
 🚩 All passwords are securely encrypted. 
 
 🔝 Safeguarding your sensitive data is our top priority.
-
 
 
 ## 📑 Prerequisits
@@ -55,6 +55,8 @@ Then run both sides with:
 ```bash
   npm run start 
 ```
+
+
 ## ⚖️ License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed. 
