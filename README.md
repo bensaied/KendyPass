@@ -3,6 +3,7 @@
 
 This app will help you manage your application passwords, and it's not just for you, but also for your colleagues ! 
 It securely stores your logins and passwords in an encrypted format.
+
 Say goodbye to the hassle of forgetting passwords with KendyPass ! 👋
 
 ![Blue and Yellow Minimalist Web Development Instagram Post](https://github.com/bensaied/KendyPass/assets/157906188/80f18cbb-8d95-4310-86c6-0d96951ffac0)
