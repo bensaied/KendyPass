@@ -1,0 +1,31 @@
+{
+  "name": "KendyPass",
+  "short_name": "KendyPass",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+
+  "icons": [
+    {
+      "src": "favicon/icon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+
+    {
+      "src": "favicon/icon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+
+    {
+    "src": "favicon/icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "purpose": "maskable any"
+    }
+]
+}
