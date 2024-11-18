@@ -73,6 +73,6 @@ For support, email saayeed@outlook.fr and don't forget to leave a star ⭐️.
 - Github: [@bensaied](https://www.github.com/bensaied)
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-ben-saayeed/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensaied/)
 
 
